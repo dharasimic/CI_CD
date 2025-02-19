@@ -10,7 +10,7 @@ int main(){
 
     printf("Bem-vindo(a) a calculadora C, espero que se divirta e aproveite cada calculo!");
 
-    printf("Digite o primeiro numero: ");
+    printf("Digite o primeiro numero:hahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshshhahhsshhshshsh ");
     scanf("%d", &n1);
     printf("Digite o segundo numero: ");
     scanf("%d", &n2);
