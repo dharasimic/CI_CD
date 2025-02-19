@@ -8,6 +8,8 @@ int main(){
     int n1, n2, n3, n4, n5, n6, n7, n8, n9, n10;
     int soma, media;
 
+    printf("Bem-vindo(a) a calculadora C, espero que se divirta e aproveite cada calculo!");
+
     printf("Digite o primeiro numero: ");
     scanf("%d", &n1);
     printf("Digite o segundo numero: ");
